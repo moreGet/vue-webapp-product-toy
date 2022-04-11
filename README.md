@@ -6,3 +6,7 @@
 
 - NPM 6.14.12
 - DOCKER ( MRIADB LATEST )
+
+## ETC...
+
+- 기본 쿼리 basic_table_ddl.sql
