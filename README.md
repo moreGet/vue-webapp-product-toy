@@ -5,4 +5,4 @@
 ### Environment
 
 - NPM 6.14.12
-- DOCKER ( MRIADB LATEST )
+- DOCKER ( MRIADB TAG:LATEST )
