@@ -12,3 +12,7 @@
     - npm i mysql --save
     - npm i properties-reader --save
 - DOCKER ( MRIADB TAG:LATEST )
+
+```
+git init
+```
